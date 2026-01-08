@@ -2,6 +2,7 @@
 An interactive Excel dashboard built to analyze sales performance across products, regions, and salespersons. The project includes data cleaning, transformation, and visualization using Pivot Tables, Charts, and Slicers to uncover key business insights and support data-driven decision-making.
 
 📊 Sales Analysis Dashboard (Excel)
+
 📌 Project Overview
 
 This project focuses on analyzing sales data and presenting key business insights through an interactive Excel dashboard. The dashboard helps stakeholders understand sales performance across products, regions, and salespersons, enabling data-driven decision-making.
@@ -83,4 +84,4 @@ Portfolio project for Data Analyst roles
 🧑‍💻 Author
 
 Dhilip Kumar J.R
-Aspiring Data Analyst
+ Aspiring Data Analyst
